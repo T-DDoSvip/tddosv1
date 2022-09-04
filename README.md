@@ -32,7 +32,7 @@ python t-ddosv1.py
 sudo su
 ```
 
-#### Đang cập nhật...
+#### Cập Nhật...
 ```
 cd Update
 
